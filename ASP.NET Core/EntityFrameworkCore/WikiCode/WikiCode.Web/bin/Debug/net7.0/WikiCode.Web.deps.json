@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WikiCode.Web/1.0.0": {
+        "dependencies": {
+          "WikiCode.DataAccessor": "1.0.0",
+          "WikiCode.Models": "1.0.0"
+        },
+        "runtime": {
+          "WikiCode.Web.dll": {}
+        }
+      },
+      "WikiCode.DataAccessor/1.0.0": {
+        "runtime": {
+          "WikiCode.DataAccessor.dll": {}
+        }
+      },
+      "WikiCode.Models/1.0.0": {
+        "runtime": {
+          "WikiCode.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WikiCode.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WikiCode.DataAccessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WikiCode.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
