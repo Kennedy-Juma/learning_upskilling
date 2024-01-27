@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WPrmdOpA7imMVKxlMfXneGGIn4wmb17mRmGx7u5/RTkbGH+rJJC10Swaq/JnrIha4KMUCUoc/sQvddQCnPzctQ==",
+  "dgSpecHash": "A8uu66ynSgIocMguaGbn0d2jFjpYJbTmAhFkJQgzHKSMp/kVtfe19XDST0mIUEBxTZtmiKlFZoo3h097tEWBug==",
   "success": true,
-  "projectFilePath": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Models\\WikiCode.Models.csproj",
+  "projectFilePath": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Models\\WikiCode.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

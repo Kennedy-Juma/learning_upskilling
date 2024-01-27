@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g9EoSWSTzCzL4u/QXWnWUtxpsObG4pqlYX4yNexNuzTNcvAh67s8Ty23SxTy1IpLTeYgi5khBzCmNoceTrl4tw==",
+  "dgSpecHash": "jkR5mj2IeWsQXzZpUQN1kzwDBq4DC2IoFJAH3JpH//0EO0YldqdPUasf+MfpmtDKT/QiGObW+e4r9StycQaueQ==",
   "success": true,
-  "projectFilePath": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Web\\WikiCode.Web.csproj",
+  "projectFilePath": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Web\\WikiCode.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kennedy.juma\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\kennedy.juma\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -965,7 +965,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
+          "WikiCode.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/WikiCode.DataAccessor.dll": {}
@@ -2656,11 +2657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Console\\WikiCode.Console.csproj",
+      "projectUniqueName": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Console\\WikiCode.Console.csproj",
       "projectName": "WikiCode.Console",
-      "projectPath": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Console\\WikiCode.Console.csproj",
+      "projectPath": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Console\\WikiCode.Console.csproj",
       "packagesPath": "C:\\Users\\kennedy.juma\\.nuget\\packages\\",
-      "outputPath": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Console\\obj\\",
+      "outputPath": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kennedy.juma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2677,11 +2678,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.DataAccessor\\WikiCode.DataAccessor.csproj": {
-              "projectPath": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.DataAccessor\\WikiCode.DataAccessor.csproj"
+            "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.DataAccessor\\WikiCode.DataAccessor.csproj": {
+              "projectPath": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.DataAccessor\\WikiCode.DataAccessor.csproj"
             },
-            "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Models\\WikiCode.Models.csproj": {
-              "projectPath": "D:\\Ken\\Learning Paths\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Models\\WikiCode.Models.csproj"
+            "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Models\\WikiCode.Models.csproj": {
+              "projectPath": "D:\\Ken\\Learning and Upskilling\\ASP.NET Core\\EntityFrameworkCore\\WikiCode\\WikiCode.Models\\WikiCode.Models.csproj"
             }
           }
         }

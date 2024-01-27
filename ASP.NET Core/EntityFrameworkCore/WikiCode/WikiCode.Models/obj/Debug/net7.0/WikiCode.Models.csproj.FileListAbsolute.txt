@@ -9,3 +9,15 @@ D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\
 D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\refint\WikiCode.Models.dll
 D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.pdb
 D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\ref\WikiCode.Models.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\bin\Debug\net7.0\WikiCode.Models.deps.json
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\bin\Debug\net7.0\WikiCode.Models.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\bin\Debug\net7.0\WikiCode.Models.pdb
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.AssemblyInfoInputs.cache
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.AssemblyInfo.cs
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.csproj.CoreCompileInputs.cache
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.sourcelink.json
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\refint\WikiCode.Models.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\WikiCode.Models.pdb
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.Models\obj\Debug\net7.0\ref\WikiCode.Models.dll

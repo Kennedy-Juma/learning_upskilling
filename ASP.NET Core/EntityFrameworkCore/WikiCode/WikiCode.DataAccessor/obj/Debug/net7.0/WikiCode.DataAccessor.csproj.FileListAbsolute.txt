@@ -9,3 +9,21 @@ D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAcc
 D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\refint\WikiCode.DataAccessor.dll
 D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.pdb
 D:\Ken\Learning Paths\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\ref\WikiCode.DataAccessor.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\bin\Debug\net7.0\WikiCode.DataAccessor.deps.json
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\bin\Debug\net7.0\WikiCode.DataAccessor.runtimeconfig.json
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\bin\Debug\net7.0\WikiCode.DataAccessor.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\bin\Debug\net7.0\WikiCode.DataAccessor.pdb
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\bin\Debug\net7.0\WikiCode.Models.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\bin\Debug\net7.0\WikiCode.Models.pdb
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.csproj.AssemblyReference.cache
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.AssemblyInfoInputs.cache
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.AssemblyInfo.cs
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.csproj.CoreCompileInputs.cache
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.sourcelink.json
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.csproj.CopyComplete
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\refint\WikiCode.DataAccessor.dll
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.pdb
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\WikiCode.DataAccessor.genruntimeconfig.cache
+D:\Ken\Learning and Upskilling\ASP.NET Core\EntityFrameworkCore\WikiCode\WikiCode.DataAccessor\obj\Debug\net7.0\ref\WikiCode.DataAccessor.dll
