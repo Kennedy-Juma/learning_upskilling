@@ -11,7 +11,7 @@ namespace WikiCode.DataAccessor.Data
     public class ApplicationDbContext : DbContext
     {
         DbSet<Book> Books { get; set; }
-        DbSet<Genre> Genres { get; set; }
+        DbSet<Category> Categories { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {

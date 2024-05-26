@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "v73YJywYP0xbg33UxM8WmrDHjgzZhpO+uwrAqtAD5v8=",
+  "Source": "GiveNTake",
+  "BasePath": "_content/GiveNTake",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GiveNTake\\wwwroot",
+      "Source": "GiveNTake",
+      "ContentRoot": "D:\\Projects\\Personal-Development\\Learning and Upskilling\\ASP.NET Core\\Projects\\GiveNTake\\wwwroot\\",
+      "BasePath": "_content/GiveNTake",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

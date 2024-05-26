@@ -30,7 +30,9 @@ namespace WikiCode.DataAccessor.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("BookId"));
 
                     b.Property<string>("ISBN")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.Property<decimal>("Price")
                         .HasPrecision(10, 5)
@@ -81,23 +83,25 @@ namespace WikiCode.DataAccessor.Migrations
                         });
                 });
 
-            modelBuilder.Entity("WikiCode.Models.Models.Genre", b =>
+            modelBuilder.Entity("WikiCode.Models.Models.Category", b =>
                 {
-                    b.Property<int>("GenreId")
+                    b.Property<int>("Category_Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("GenreId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Category_Id"));
 
                     b.Property<int>("Display")
                         .HasColumnType("int");
 
                     b.Property<string>("GenreName")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Name");
 
-                    b.HasKey("GenreId");
+                    b.HasKey("Category_Id");
 
-                    b.ToTable("Genres");
+                    b.ToTable("Categories");
                 });
 #pragma warning restore 612, 618
         }
