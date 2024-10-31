@@ -23,4 +23,15 @@ public async Task <ActionResult<User>>GetUsers(int id)
     if(user==null) return NotFound();
     return user;
 }
+
+[HttpPost]
+public async Task<User>CreateUser()
+{
+var newUser =new User
+{
+UserName="abcd"
+};
+await context.Users.AddAsync(newUser);
+return newUser;
+}
 }

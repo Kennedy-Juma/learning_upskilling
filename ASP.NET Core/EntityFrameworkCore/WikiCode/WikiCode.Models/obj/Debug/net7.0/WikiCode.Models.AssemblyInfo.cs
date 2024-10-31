@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikiCode.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e45fd5795f8fa5205864e1800d4ff0c733a0a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikiCode.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikiCode.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
